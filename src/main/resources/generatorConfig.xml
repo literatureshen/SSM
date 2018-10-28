@@ -5,7 +5,6 @@
  
 <generatorConfiguration>
 	<properties resource="application.properties"/>
-    <classPathEntry location="D:\install\java\repository\mysql\mysql-connector-java\5.1.30\mysql-connector-java-5.1.30.jar" />
     <context id="mysqlTables" targetRuntime="MyBatis3">
     
         <commentGenerator>
